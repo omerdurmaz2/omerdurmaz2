@@ -15,7 +15,6 @@ Google Play and the App Store.
 - **StyLens** — AI visual shopping search (Kotlin Multiplatform + Compose Multiplatform, Gemini + Google Lens) · [Google Play](https://play.google.com/store/apps/details?id=com.devomer.stylens) · [App Store](https://apps.apple.com/app/stylens/id6748543146)
 - **CoreText AI** — summaries and Q&A over PDF, Word and images with Gemini 2.5 Flash (Flutter + Firebase) · [Google Play](https://play.google.com/store/apps/details?id=com.devomer.coretextai) · [App Store](https://apps.apple.com/app/id6746669447)
 - [Compose accessibility Detekt rules](https://github.com/omerdurmaz2/custom-detekt-rule) — flag missing accessibility labels in Compose UI during code review
-- [eu-online-shopping](https://github.com/omerdurmaz2/eu-online-shopping) — multi-module Android shopping app (Hilt, Retrofit, DataStore, unit-tested use cases)
 
 **Writing** — Jetpack Compose articles on [Medium](https://omerrdurmaz.medium.com): performance, accessibility, side effects, gestures, animation.
 
