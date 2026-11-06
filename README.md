@@ -16,6 +16,8 @@ Google Play and the App Store.
 - **CoreText AI** — summaries and Q&A over PDF, Word and images with Gemini 2.5 Flash (Flutter + Firebase) · [Google Play](https://play.google.com/store/apps/details?id=com.devomer.coretextai) · [App Store](https://apps.apple.com/app/id6746669447)
 - [Compose accessibility Detekt rules](https://github.com/omerdurmaz2/custom-detekt-rule) — flag missing accessibility labels in Compose UI during code review
 
-**Writing** — I write about Android development on [Medium](https://omerrdurmaz.medium.com): Jetpack Compose deep dives so far (performance, accessibility, side effects, gestures, animation), with Flutter and AI-on-mobile topics coming next.
+**Writing** 
+
+I write about Android development on [Medium](https://omerrdurmaz.medium.com): Jetpack Compose deep dives so far (performance, accessibility, side effects, gestures, animation), with Flutter and AI-on-mobile topics coming next.
 
 [omerdurmaz.com.tr](https://omerdurmaz.com.tr) · [LinkedIn](https://www.linkedin.com/in/omerdurmaz2) · [Medium](https://omerrdurmaz.medium.com)
